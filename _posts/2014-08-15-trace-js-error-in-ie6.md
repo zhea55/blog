@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 快速定位ie6中的javascript错误
+date: 2014-08-15 09:14
 ---
 
 
