@@ -8,3 +8,10 @@ gem 'reduce' # Ruby/CLI: minify javascript + stylesheets, lossless image optimiz
 gem 'rouge'
 
 gem 'mini_magick'
+
+
+
+gem 'rubygems'
+gem 'rdoc'
+gem 'date'
+gem 'yaml'
