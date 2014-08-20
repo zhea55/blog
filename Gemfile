@@ -6,5 +6,7 @@ gem 'rake' #ruby build program with capabilities similar to make
 gem 'reduce' # Ruby/CLI: minify javascript + stylesheets, lossless image optimization
 
 gem 'rouge'
-
 gem 'mini_magick'
+gem 'jekyll-assets'
+gem 'uglifier'
+gem 'sass'

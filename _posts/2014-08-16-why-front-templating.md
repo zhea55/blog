@@ -36,7 +36,7 @@ date: 2014-08-16 12:31
 
 
 {% picture server-side-templating.png alt="服务器端渲染流程" %}
-{% picture client-side-templating.png alt="服务器端渲染流程" %}
+{% picture client-side-templating.png alt="客户端渲染流程" %}
 
 ### 前后端开发解耦
 传统的后端渲染流程，导致后端开发人员需要维护混乱不堪的代码。

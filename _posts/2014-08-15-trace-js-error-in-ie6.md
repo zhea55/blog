@@ -7,16 +7,8 @@ date: 2014-08-15 09:14
 
 
 
-ie6出现js错误后，提示的行号，有些莫名其妙。
+ie6抛出js错误时，没有指明出错的文件。有时候比较头疼，找来找去。
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+后来发现只要打开ie11，在开发者工具中切换到ie7，然后切换到控制台面板。
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-
-// > 8
-{% endhighlight %}
+ie7会将出错的文件来源和行号写的清清楚楚。
